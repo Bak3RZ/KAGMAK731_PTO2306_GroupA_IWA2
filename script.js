@@ -6,7 +6,7 @@ const user = 'John'
 
 const surname = 'Smith'
 
-console.log('user' + 'surname')
+console.log('John' + 'Smith')
 
 
 /** (c) ACME Inc. 2010 */
